@@ -15,3 +15,5 @@ The notebook includes:
 - Interpretation of communalities and uniqueness .
 - Full documentation via Jupyter Markdown cells explaining each step clearly.
 All visualizations and explanations are designed to help readers understand the process of extracting and interpreting latent variables from multivariate datasets.
+
+For other dimension-reduction work, check out my PCA (Principal Component Analysis) work [here](https://github.com/jrbayguade/DataTreatment_DimensionalityReduction_PCA)
